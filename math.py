@@ -1,3 +1,4 @@
+#addition
 def add(x,y):
     pass
 #subtraction
@@ -6,6 +7,6 @@ def subtract(x,y):
 #multiplication
 def multiply(x,y):
     pass
-#divide
+#division
 def divide(x,y):
 	pass
