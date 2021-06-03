@@ -10,7 +10,7 @@ def subtract(x,y):
 
 #multiplication
 def multiply(x,y):
-    pass
+    return x*y
 #division
 def divide(x,y):
 	pass
