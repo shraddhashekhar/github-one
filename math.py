@@ -1,9 +1,12 @@
 #addition
 def add(x,y):
-    return (x+y)   #bug123
+    return (x+y)   
 #subtraction
 def subtract(x,y):
-    pass
+    if y>x:
+    	return ERROR
+    else:
+    	return x-y
 #multiplication
 def multiply(x,y):
     pass
