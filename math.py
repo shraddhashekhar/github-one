@@ -13,4 +13,5 @@ def multiply(x,y):
     pass
 #division
 def divide(x,y):
-	pass
+	return (x/y)
+	
